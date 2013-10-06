@@ -56,7 +56,7 @@ function! airline#themes#solarized#refresh()
   endif
 
   " Insert mode
-  let s:I1 = [s:N1[0], s:yellow, 'bold']
+  let s:I1 = [s:N1[0], s:green, 'bold']
   let s:I2 = s:N2
   let s:I3 = s:N3
   let s:IF = s:NF
